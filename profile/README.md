@@ -22,3 +22,7 @@ For community discussion, we welcome you to the [Decent Apps Discord server](htt
 ## Support / Filing Issues
 
 Just use the [create-decent-app issue tracker](https://github.com/DecentAppsNet/create-decent-app/issues) rather than an issue tracker in a supporting repo. That's going to be the easiest thing for now.
+
+# Contacting Us
+
+For support and bugs, please use the issue tracking link mentioned above. For other things, you can email us at info@decentapps.net.
