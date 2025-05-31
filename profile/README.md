@@ -1,8 +1,8 @@
 # Let's Be Decent
 
-Welcome!
-
 Decent Apps are fully local web apps. where everything, including an LLM, runs in the user's browser. This realizes benefits in privacy, security, performance, and cost. For more information about Decent Apps, please visit [decentapps.net](https://decentapps.net).
+
+For community discussion, we welcome you to the [Decent Apps Discord server](https://discord.gg/kkp3x4X2Vb)!
 
 # Repository Guide
 
